@@ -1,12 +1,12 @@
-## 📌 Kotlin Eğitimi
+# 📌 Kotlin Eğitimi
 
-### Temel Konular
+## Temel Konular
 - Değişkenler ve Tür Dönüşümleri
 - Operatörler
 - Karar Yapıları ve Döngüler
 - Hata Yakalama
 
-### Fonksiyonlar ve Metotlar
+## Fonksiyonlar ve Metotlar
 - Fonksiyonlar
 - Infix Fonksiyonlar
 - Extension Kullanımı
@@ -14,12 +14,12 @@
 - Overloading 
 - Override
 
-### Koleksiyonlar
+## Koleksiyonlar
 - ArrayList Kullanımı
 - HashSet Kullanımı
 - HashMap Kullanımı
 
-### Nesne Tabanlı Programlama (OOP)
+## Nesne Tabanlı Programlama (OOP)
 - Nesne Tabanlı Programlama
 - Kalıtım (Inheritance)
 - Interface Kullanımı

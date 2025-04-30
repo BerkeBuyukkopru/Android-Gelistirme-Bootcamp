@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Game</string>
+    <string name="gameBaslik">EA SPORTS FC™ 25</string>
+    <string name="tur1Yazi">Spor</string>
+    <string name="tur3Yazi">Çok Oyunculu</string>
+    <string name="tur2Yazi">Tek Oyunculu</string>
+    <string name="gameAciklama">EA SPORTS FC™ 25 kulüp için kazanmanız adına size daha fazla yol sunuyor. Yeni 5’e 5 Rush ile favori modlarınızda arkadaşlarınızla takım kurun ve her zamankinden daha fazla taktiksel kontrol sunan FC IQ ile kulübünüzü zafere taşıyın.</string>
+    <string name="gameFiyat">2692,91 TL</string>
+    <string name="buttonYazi">SEPETE EKLE</string>
+</resources>
